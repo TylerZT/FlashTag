@@ -1,4 +1,4 @@
-package me.perryplaysmc.ft.listeners;
+package com.sus.flashtag.listeners;
 
 
 import org.bukkit.Bukkit;
