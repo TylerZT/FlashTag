@@ -1,0 +1,8 @@
+name: FlashTag
+version: 1.0
+main: me.perryplaysmc.ft.FlashTag
+commands:
+  flashtag:
+    description: FlashTag main command
+    usage: /<command> <create/delete> <name> and more, I'm just lazy
+     
